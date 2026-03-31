@@ -1,5 +1,7 @@
-Mi Portafolio
+##Mi Portafolio
+
 Sobre mí
+
 Soy estudiante de desarrollo de software con experiencia en proyectos de programación en Java, desarrollo de aplicaciones web dinámicas y desarrollo de aplicaciones JEE con Spring Framework. He trabajado en la creación de aplicaciones utilizando arquitectura MVC, manejo de bases de datos y desarrollo de APIs REST. Me interesa seguir aprendiendo y fortalecer mis habilidades en el desarrollo backend.
 
  Proyectos desarrollados
