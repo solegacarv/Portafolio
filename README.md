@@ -6,6 +6,22 @@ Soy estudiante de desarrollo de software con experiencia en proyectos de program
 
 ## Proyectos desarrollados
 
+Proyecto Smart Task:
+
+Smart Task es una aplicación diseñada para la gestión de tareas, que permite a los usuarios organizar, priorizar y hacer seguimiento de sus actividades de manera eficiente.
+Tecnologías: HTML, CSS, JavaScript
+
+
+Fundamentos de base de datos relacionales:
+
+Este proyecto consistió en el diseño e implementación de una base de datos relacional, enfocada en modelar correctamente la información y establecer relaciones eficientes entre distintas entidades.
+Tecnologías: SQL
+
+Proyecto Alke Wallet:
+
+Alke Wallet es una aplicación de billetera digital desarrollada con el objetivo de simular la gestión de dinero de un usuario. Permite visualizar el saldo disponible, realizar transferencias y llevar un registro de los movimientos.
+Tecnologías: HTML CSS JavaScript
+
 Desarrollo de aplicaciones JEE con Spring Framework
 
 Proyecto enfocado en la creación de una aplicación web utilizando Spring Boot, donde se implementa arquitectura MVC, acceso a datos con JPA, seguridad con Spring Security y consumo de APIs REST.
